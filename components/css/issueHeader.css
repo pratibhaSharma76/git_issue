@@ -1,0 +1,18 @@
+.state {
+    display: inline-block;
+    padding: 4px 8px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #6a737d;
+    border-radius: 3px;
+}
+
+.open-issue {
+    background-color: #2cbe4e;
+}
+
+.closed-issue {
+    background-color: rgb(243 59 62);
+}
